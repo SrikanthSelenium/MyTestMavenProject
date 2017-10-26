@@ -42,7 +42,7 @@ public class NewTest {
 		d.switchTo().window(mainwnd);
 		System.out.println(d.getTitle());
 		
-		
+		System.out.println("added in eclipse");
 		
 		d.quit();		
 				
