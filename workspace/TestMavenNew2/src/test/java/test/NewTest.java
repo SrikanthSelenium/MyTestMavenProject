@@ -43,6 +43,7 @@ public class NewTest {
 		System.out.println(d.getTitle());
 		
 		System.out.println("added in eclipse");
+		System.out.println("added in github");
 		
 		d.quit();		
 				
